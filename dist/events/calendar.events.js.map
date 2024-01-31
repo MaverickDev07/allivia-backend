@@ -1,0 +1,1 @@
+{"version":3,"file":"calendar.events.js","sourceRoot":"","sources":["../../events/calendar.events.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,iGAAyF;AAGjF,MAAM,iBAAiB,GAAG,UAAe,MAAuB,EAAC,IAAqB;;QAE1F,MAAM,CAAC,EAAE,CAAC,kBAAkB,EAAC,CAAC,OAAO,EAAC,EAAE;YACpC,IAAA,kDAAqB,EAAC,OAAO,EAAC,MAAM,EAAC,IAAI,CAAC,CAAC;QAC/C,CAAC,CAAC,CAAC;IAEP,CAAC;CAAA,CAAA;AANa,QAAA,iBAAiB,qBAM9B"}
